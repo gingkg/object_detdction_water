@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>water (44).jpg</filename>
+	<path>C:\Users\a123\Desktop\Object-Detection\images\water (44).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amwater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>22</ymin>
+			<xmax>282</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>amwater</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>25</ymin>
+			<xmax>401</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
